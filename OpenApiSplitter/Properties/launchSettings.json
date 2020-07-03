@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OpenApiSplitter": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\GeyerV\\Downloads\\openapi.json\" \"C:\\Projects\\OpenApiMarket\\OpenApi-Market\\OpenApis\" LagerVerwaltung"
+    }
+  }
+}
